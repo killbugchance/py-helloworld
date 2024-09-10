@@ -1,0 +1,5 @@
+*.o
+*.od
+__pycache__
+.pytest_cache
+
